@@ -1,4 +1,4 @@
-## ScanZBufferAlgorithm
+## scan line zbuffer algorithm
 
 ### 项目说明
 
